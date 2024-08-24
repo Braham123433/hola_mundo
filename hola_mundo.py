@@ -1,1 +1,1 @@
-Hola Mundo - Versión 2
+Hola Mundo
